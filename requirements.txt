@@ -1,1 +1,2 @@
 pdfminer.six
+sentence_transformers
